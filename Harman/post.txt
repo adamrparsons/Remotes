@@ -1,0 +1,1 @@
+POST AVR HTTP/1.1. .Host: 10.238.69.175:10025..User-Agent: Harman Kardon AVR Remote Controller /2.0 ..Content-Length:170..<?xml version="1.0" encoding="UTF-8"?> <harman> <avr> <common> <control> <name>volume-up</name> <zone>Main Zone</zone> <para></para> </control> </common> </avr> </harman>:
